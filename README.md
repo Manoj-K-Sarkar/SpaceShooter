@@ -34,3 +34,7 @@ Run
 ```bash
   ./main-app
 ```
+
+## Screenshots
+
+![App Screenshot](./docs/spaceshooter.png)
